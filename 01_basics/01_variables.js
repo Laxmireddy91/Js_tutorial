@@ -11,6 +11,8 @@ console.log(accountId)
 
 /*
 always prefered to use let 
+prefered not to use var
+because of issue in block and functional scope
 
 */
 
